@@ -1,0 +1,49 @@
+Tugas Struktur Data (UAS)
+Siti Maimunah Farida Nur Aini ( IF 25 E )
+NIM : 25416255201158
+Judul Tema: Sistem Perpustakaan
+
++----------------+
+|     MULAI      |
++----------------+
+        |
+        v
++----------------------+
+| Baca Data Buku CSV   |
++----------------------+
+        |
+        v
++----------------------+
+|      Menu Utama      |
++----------------------+
+        |
+        v
++--------------------------------+
+| 1. Tambah Buku                 |
+| 2. Lihat Buku                  |
+| 3. Update Buku                 |
+| 4. Hapus Buku                  |
+| 5. Cari Buku                   |
+| 6. Urutkan Buku                |
+| 7. Antrian Pinjam Buku         |
+| 8. Proses Peminjaman           |
+| 9. Keluar                      |
++--------------------------------+
+        |
+        v
++----------------------+
+| Proses Sesuai Menu   |
++----------------------+
+        |
+        v
++----------------------+
+| Simpan Perubahan CSV |
++----------------------+
+        |
+        v
++----------------------+
+| Kembali ke Menu ?    |
++----------------------+
+      | Ya      | Tidak
+      v         v
+ Menu Utama   Selesai
